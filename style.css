@@ -44,3 +44,20 @@ form {
 .form-control:hover {
     background-color: rgb(220, 231, 236);
 }
+
+.btn {
+    background-color: #F1F3F4;
+    border: none;
+    color: rgb(141, 146, 148); 
+    font-weight: bold;
+    padding: 8px 20px;
+    text-align: center;
+    text-decoration: none;
+    margin: 30px 4px;
+    font-size: small;
+}
+
+.btn:hover {
+    color: #111;
+}
+
